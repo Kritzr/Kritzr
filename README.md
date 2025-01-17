@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer animation" />
+
 
 ###
 
@@ -47,7 +48,3 @@
 
 <br clear="both">
 
-<div align="center">
-  <h3>💡 Quote of the Day</h3>
-  <em>"Strive not to be a success, but rather to be of value." – Albert Einstein</em>
-</div>
