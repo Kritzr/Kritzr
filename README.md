@@ -2,9 +2,11 @@
 ![download (1)](https://github.com/user-attachments/assets/1d6c7d93-9d60-451b-bdae-6f5ddf61c11e)
 <h1 align="center">Hi 👋, I'm Krithika Ravishankar</h1>
 <h3 align="center">🚀 Developer | 💡 Tech Explorer | 📚 ML Enthusiast from India</h3>
-<p align="center">
- ![Programmer Day by Porforever](https://github.com/user-attachments/assets/66989888-dc76-43a0-a98f-444ef681b001)
-</p>
+<center>
+  ![Programmer Day by Porforever](https://github.com/user-attachments/assets/66989888-dc76-43a0-a98f-444ef681b001)
+</center>
+
+
 
 
 
