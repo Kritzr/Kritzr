@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <a href="[https://leetcode.com//](https://leetcode.com/u/kritz15/)" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
   </a>
   &nbsp;&nbsp;
@@ -80,14 +80,10 @@
   </a>
 </p>
 
----
-
-### 🌸 A Sprinkle of Aesthetic Energy
-
 <p align="center">
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="150" alt="sparkles gif"/>
 </p>
 
----
+
 
 ✨ *Thanks for visiting! I’m always up for collaboration, innovation, or a good geeky conversation.* ✨
