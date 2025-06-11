@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Developer | 💡 Tech Explorer | 📚 ML Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDIyZWFuNzExdjBoOHF6M2hrODd5Z3lpYWtsbWs2azRoNWV5Z3JwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="coding girl gif"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="coding girl gif"/>
 </p>
 
 <p align="center">
@@ -71,9 +71,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="[https://leetcode.com//](https://leetcode.com/u/kritz15/)" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
-  </a>
+  <a href="https://leetcode.com/kritz15/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+</a>
+
   &nbsp;&nbsp;
   <a href="mailto:krithikaravsishankar4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
