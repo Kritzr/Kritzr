@@ -7,8 +7,9 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kritzr&label=Profile%20views&color=0e75b6&style=flat" alt="kritzr" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" alt="pixel girl coding gif"/>
 </p>
+
 
 ---
 
