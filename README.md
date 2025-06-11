@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Developer | 💡 Tech Explorer | 📚 ML Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="coding girl gif"/>
+  <img src="https://64.media.tumblr.com/98ee3e5cd4a5b8aa50598a8fbbf9f021/tumblr_p8z3fswL3F1wzvt9qo1_500.gif" width="200" alt="pixel girl coding gif"/>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kritzr&label=Profile%20views&color=0e75b6&style=flat" alt="kritzr" />
