@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krithika Ravishankar</h1>
 <h3 align="center">🚀 Developer | 💡 Tech Explorer | 📚 ML Enthusiast from India</h3>
-
 <p align="center">
-  <img src="[https://i.imgur.com/L8VZP5j.gif" width="200" alt="pixel girl coding gif"](https://imogiagames.wordpress.com/wp-content/uploads/2019/12/chibigirl-64-08-anim-finetuning.gif)"/>
+  <img src="https://i.imgur.com/your‑chosen‑gif.gif" width="200" alt="pixel girl coding gif"/>
 </p>
+
 
 
 ---
