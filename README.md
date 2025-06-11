@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Developer | 💡 Tech Explorer | 📚 ML Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/98ee3e5cd4a5b8aa50598a8fbbf9f021/tumblr_p8z3fswL3F1wzvt9qo1_500.gif" width="200" alt="pixel girl coding gif"/>
+  <img src="https://i.imgur.com/L8VZP5j.gif" width="200" alt="pixel girl coding gif"/>
 </p>
 
 
