@@ -2,6 +2,10 @@
 <h3 align="center">🚀 Developer | 💡 Tech Explorer | 📚 ML Enthusiast from India</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDIyZWFuNzExdjBoOHF6M2hrODd5Z3lpYWtsbWs2azRoNWV5Z3JwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="coding girl gif"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kritzr&label=Profile%20views&color=0e75b6&style=flat" alt="kritzr" />
 </p>
 
@@ -10,9 +14,9 @@
 ### 🌱 About Me
 
 - 🎓 Pre-final year student at **Anna University**
-- 🧠 Currently learning **Machine Learning** and diving deep into **System Programming**
-- 💻 Love building projects and exploring new tools, frameworks, and languages
-- 🌟 Always curious and constantly evolving as a developer
+- 🧠 Currently learning **Machine Learning** and exploring **System Programming**
+- 💻 Love building projects and solving real-world problems
+- ☕ Fuelled by curiosity and filter coffee
 
 ---
 
@@ -60,12 +64,17 @@
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/krithika-ravishankar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:krithikaravsishankar4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
@@ -73,4 +82,12 @@
 
 ---
 
-✨ *Thanks for stopping by! I'm always excited to collaborate, learn, and grow.* ✨
+### 🌸 A Sprinkle of Aesthetic Energy
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="150" alt="sparkles gif"/>
+</p>
+
+---
+
+✨ *Thanks for visiting! I’m always up for collaboration, innovation, or a good geeky conversation.* ✨
