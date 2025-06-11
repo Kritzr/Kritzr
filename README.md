@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krithika Ravishankar</h1>
 <h3 align="center">🚀 Developer | 💡 Tech Explorer | 📚 ML Enthusiast from India</h3>
 <p align="center">
-  <img src="https://i.imgur.com/your‑chosen‑gif.gif" width="200" alt="pixel girl coding gif"/>
+  <img src="https://i.redd.it/n4rr3aqcfgpe1.gif" width="200" alt="pixel girl coding gif"/>
 </p>
+
 
 
 
