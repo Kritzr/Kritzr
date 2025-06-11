@@ -2,12 +2,7 @@
 <h3 align="center">🚀 Developer | 💡 Tech Explorer | 📚 ML Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/L8VZP5j.gif" width="200" alt="pixel girl coding gif"/>
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" alt="pixel girl coding gif"/>
+  <img src="[https://i.imgur.com/L8VZP5j.gif" width="200" alt="pixel girl coding gif"](https://imogiagames.wordpress.com/wp-content/uploads/2019/12/chibigirl-64-08-anim-finetuning.gif)"/>
 </p>
 
 
