@@ -1,8 +1,11 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1d6c7d93-9d60-451b-bdae-6f5ddf61c11e" alt="download (1)"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Krithika Ravishankar</h1>
-<h3 align="center">🚀 Developer | 💡 Tech Explorer | 📚  Enthusiast from India</h3>
+<h3 align="center">🚀 Developer | 💡 Tech Explorer | 📚 CS Enthusiast from India</h3>
+
+---
 
 <table>
   <tr>
@@ -21,6 +24,9 @@
     </td>
   </tr>
 </table>
+
+---
+
 
 ### 🛠️ Tech Stack
 
