@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/1d6c7d93-9d60-451b-bdae-6f5ddf61c11e" alt="download (1)"/>
 </p>
 <h1 align="center">Hi 👋, I'm Krithika Ravishankar</h1>
-<h3 align="center">🚀 Developer | 💡 Tech Explorer | 📚 ML Enthusiast from India</h3>
+<h3 align="center">🚀 Developer | 💡 Tech Explorer | 📚  Enthusiast from India</h3>
 
 <table>
   <tr>
@@ -26,7 +26,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
