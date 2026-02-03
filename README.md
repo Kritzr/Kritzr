@@ -1,98 +1,194 @@
+<div align="center">
+
+<!-- Cute Header with Sparkles -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1d6c7d93-9d60-451b-bdae-6f5ddf61c11e" alt="download (1)"/>
 </p>
 
-<h1 align="center">Hello people! I'm Krithika Ravishankar</h1>
-<h3 align="center">🚀 Developer | 💡 Tech Explorer | 📚 CS Enthusiast from India</h3>
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=developer+%7C+researcher+%7C+tech+explorer+%F0%9F%9A%80;building+the+future%2C+one+commit+at+a+time+%F0%9F%8C%99;caffeine-powered+code+wizard+%E2%98%95%E2%9C%A8" alt="Typing SVG" />
+</h3>
 
----
+```ascii
+     /\_/\  
+    ( o.o ) 
+     > ^ <   currently vibing with: 5G networks, ML magic & graph databases
+    /|   |\
+   (_|   |_)
+```
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="25" /> **SE Intern @ Versa Networks** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="25" /><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="20" /> Research Associate @ IITM Pravartak <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="20" /><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" /> CSE @ MIT Anna University (2022-26) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" />
 
-### 🌱 About Me
+<br>
 
-🔭 I’m currently working on cybersecurity and database cores  
-👯 I’m looking to collaborate on website making  
-🤝 I’m looking for help with Cloud based architecture and systems  
-🌱 I’m currently learning Agentic AI and ML Projects  
+<!-- Social Links with Cute Icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/krithika-ravishankar">
+    <img src="https://img.shields.io/badge/LinkedIn-let's_connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4" />
+  </a>
+  <a href="https://instagram.com/krithikaravishankar4">
+    <img src="https://img.shields.io/badge/Instagram-daily_vibes-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF69B4" />
+  </a>
+  <a href="https://www.youtube.com/@KrithikaRavishankar-k1r7l">
+    <img src="https://img.shields.io/badge/YouTube-watch_me!-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF69B4" />
+  </a>
+  <a href="https://leetcode.com/kritz15/">
+    <img src="https://img.shields.io/badge/LeetCode-solving_mysteries-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FF69B4" />
+  </a>
+  <a href="[https://medium.com/@krithikaravishankar4](https://medium.com/@kritstudy15)">
+    <img src="https://img.shields.io/badge/Medium-thoughts_&_bytes-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=FF69B4" />
+  </a>
+  <a href="mailto:krithikaravishankar4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-say_hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4" />
+  </a>
+</p>
 
-<img src="https://github.com/user-attachments/assets/66989888-dc76-43a0-a98f-444ef681b001" alt="Programmer Day by Porforever" width="250"/>
+<br>
 
----
+<!-- Cute Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 Socials
+<!-- About Me Section with Emojis -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="35" /> a little about me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krithikaravishankar4)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krithika-ravishankar)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@KrithikaRavishankar-k1r7l)  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krithikaravishankar4@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/kritz15/)
+<img align="right" alt="coding girl" width="300" src="https://github.com/user-attachments/assets/66989888-dc76-43a0-a98f-444ef681b001">
 
----
+```javascript
+const krithika = {
+    pronouns: "she/her",
+    location: "Chennai, India 🇮🇳",
+    currentMood: "✨ perpetually curious ✨",
+    workingOn: [
+        "🔐 cybersecurity adventures",
+        "📊 graph database sorcery", 
+        "📡 B5G Open RAN magic (INDRA5G)",
+        "🤖 ML-powered networking"
+    ],
+    learning: ["Agentic AI 🧠", "Cloud Architecture ☁️"],
+    collaborateOn: "innovative projects & creative ideas! 🌸",
+    funFact: "I debug with determination ✨",
+    lifePhilosophy: "code, coffee, create, repeat ☕💫"
+};
+```
 
-# 💻 Tech Stack
+<br clear="right"/>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<!-- Skills Section with Cute Headers -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" /> my magical toolbox
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,php,powershell&perline=8" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,mysql,postgres,graphql,postman,arduino&perline=8" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=figma,illustrator,notion,vscode,linux,github,gitlab&perline=7" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kritzr&show_icons=true&theme=radical" alt="krithika-stats" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritzr&layout=compact&theme=radical" alt="krithika-langs" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<!-- Stats Section with Gradient -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="30" /> github stats
 
-### 🔥 GitHub Streak
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kritzr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFF" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=kritzr&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" />
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=kritzr&theme=radical" alt="GitHub Streak" />
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritzr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFF&langs_count=8" />
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
+<!-- Activity Graph -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rainbow.png" width="30" /> contribution graph
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kritzr&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kritzr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFFFFF" />
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### ✍️ Random Dev Quote
+<!-- Trophies -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" /> github trophies
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kritzr&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🔝 Top Contributed Repo
+<!-- Quote of the Day -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" width="30" /> today's vibe
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Kritzr&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="150" alt="sparkles gif"/>
+<!-- Current Projects -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> currently brewing
 
-✨ *Thanks for visiting! I’m always up for collaboration, innovation, or a good geeky conversation.* ✨
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone%20with%20Arrow.png" width="50" /><br>
+      <b>INDRA5G</b><br>
+      <sub>Intelligent B5G Open RAN with ML-powered traffic classification ✨</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="50" /><br>
+      <b>Cybersecurity Research</b><br>
+      <sub>Graph-based cyber attack detection & prevention 🔐</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Fun Extras -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" width="30" /> fun facts about me
+
+<img align="right" width="150" src="https://github.com/user-attachments/assets/66989888-dc76-43a0-a98f-444ef681b001" />
+
+- 🌸 **Vibe:** Developer meets creative explorer
+- ☕ **Fuel:** Coffee + curiosity + code
+- 🎨 **Side Quest:** Making tech beautiful & functional
+- 🌙 **Night Owl:** Best code happens at 2 AM
+- 🎵 **Coding Playlist:** Lo-fi beats & good vibes
+- 🌈 **Goal:** Build things that make a difference
+- ✨ **Mantra:** Innovation through iteration
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kritzr&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="profile views" />
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="20" />
+  <i>let's build something amazing together!</i>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="20" />
+</p>
+
+<p align="center">
+  <sub>💫 made with passion & code by krithika 💫</sub>
+</p>
 
 </div>
