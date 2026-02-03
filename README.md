@@ -137,12 +137,12 @@ const krithika = {
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone%20with%20Arrow.png" width="50" /><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone%20with%20Arrow.png" url = " https://github.com/Kritzr/PPO-BASED-PHYSICAL-RESOUCE-BLOCK-ALLOCATION-ALONG-WITH-SVM-AIDED-TRAFFIC-CLASSIFICATION" width="50" /><br>
       <b>INDRA5G</b><br>
       <sub>Intelligent B5G Open RAN with ML-powered traffic classification ✨</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="50" /><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png"  url="https://github.com/Kritzr/pravartak_shakthidb" width="50" /><br>
       <b>Cybersecurity Research</b><br>
       <sub>Graph-based cyber attack detection & prevention 🔐</sub>
     </td>
