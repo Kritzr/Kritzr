@@ -151,22 +151,7 @@ const krithika = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Fun Extras -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" width="30" /> fun facts about me
 
-<img align="right" width="150" src="https://github.com/user-attachments/assets/66989888-dc76-43a0-a98f-444ef681b001" />
-
-- 🌸 **Vibe:** Developer meets creative explorer
-- ☕ **Fuel:** Coffee + curiosity + code
-- 🎨 **Side Quest:** Making tech beautiful & functional
-- 🌙 **Night Owl:** Best code happens at 2 AM
-- 🎵 **Coding Playlist:** Lo-fi beats & good vibes
-- 🌈 **Goal:** Build things that make a difference
-- ✨ **Mantra:** Innovation through iteration
-
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Visitor Counter -->
 <p align="center">
