@@ -1,179 +1,183 @@
 <div align="center">
 
-<!-- Cute Header with Sparkles -->
+<!-- Pixel Art Header -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d6c7d93-9d60-451b-bdae-6f5ddf61c11e" alt="download (1)"/>
+  <img src="https://github.com/user-attachments/assets/1d6c7d93-9d60-451b-bdae-6f5ddf61c11e" alt="Header"/>
 </p>
 
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=developer+%7C+researcher+%7C+tech+explorer+%F0%9F%9A%80;building+the+future%2C+one+commit+at+a+time+%F0%9F%8C%99;caffeine-powered+code+wizard+%E2%98%95%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Graduate+Researcher+%7C+Developer+%7C+Systems+Engineer;Cybersecurity+%2B+ML-Driven+Networks+%2B+Graph+Databases;Pursuing+Advanced+Research+in+Computer+Science" alt="Typing SVG" />
 </h3>
 
-```ascii
-     /\_/\  
-    ( o.o ) 
-     > ^ <   currently vibing with: 5G networks, ML magic & graph databases
-    /|   |\
-   (_|   |_)
+```
+╔═══════════════════════════════════════════════════════════╗
+║  [▓▓▓▓▓▓▓▓▓▓] LOADING RESEARCHER PROFILE...              ║
+║                                                           ║
+║  > research_focus: network_intelligence + cybersecurity   ║
+║  > current_role: building_next_gen_systems                ║
+║  > status: phd_candidate_track                            ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="25" /> **SE Intern @ Versa Networks** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="25" /><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="20" /> Research Associate @ IITM Pravartak <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="20" /><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" /> CSE @ MIT Anna University (2022-26) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" />
+**Software Engineering Intern** @ Versa Networks  
+**Research Associate** @ IIT Madras Pravartak Technologies  
+**B.Tech Computer Science & Engineering** @ MIT Anna University (2022-2026)
 
 <br>
 
-<!-- Social Links with Cute Icons -->
+<!-- Professional Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/krithika-ravishankar">
-    <img src="https://img.shields.io/badge/LinkedIn-let's_connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4" />
-  </a>
-  <a href="https://instagram.com/krithikaravishankar4">
-    <img src="https://img.shields.io/badge/Instagram-daily_vibes-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF69B4" />
-  </a>
-  <a href="https://www.youtube.com/@KrithikaRavishankar-k1r7l">
-    <img src="https://img.shields.io/badge/YouTube-watch_me!-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF69B4" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/kritz15/">
-    <img src="https://img.shields.io/badge/LeetCode-solving_mysteries-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FF69B4" />
+    <img src="https://img.shields.io/badge/LeetCode-Algorithmic_Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="[https://medium.com/@krithikaravishankar4](https://medium.com/@kritstudy15)">
-    <img src="https://img.shields.io/badge/Medium-thoughts_&_bytes-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=FF69B4" />
+  <a href="https://medium.com/@kritstudy15">
+    <img src="https://img.shields.io/badge/Medium-Technical_Writing-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@KrithikaRavishankar-k1r7l">
+    <img src="https://img.shields.io/badge/YouTube-Research_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="mailto:krithikaravishankar4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-say_hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <br>
 
-<!-- Cute Divider -->
+<!-- Pixel Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- About Me Section with Emojis -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="35" /> a little about me
+<!-- Research Profile -->
+## 📡 RESEARCH PROFILE
 
-<img align="right" alt="coding girl" width="300" src="https://github.com/user-attachments/assets/66989888-dc76-43a0-a98f-444ef681b001">
+<img align="right" alt="developer workspace" width="320" src="https://github.com/user-attachments/assets/66989888-dc76-43a0-a98f-444ef681b001">
 
 ```javascript
 const krithika = {
     pronouns: "she/her",
-    location: "Chennai, India 🇮🇳",
-    currentMood: "✨ perpetually curious ✨",
-    workingOn: [
-        "🔐 cybersecurity adventures",
-        "📊 graph database sorcery", 
-        "📡 B5G Open RAN magic (INDRA5G)",
-        "🤖 ML-powered networking"
+    location: "Chennai, India",
+    status: "Graduate Researcher | Aspiring PhD Candidate",
+    
+    research_interests: [
+        "Cybersecurity & Network Defense",
+        "Graph Database Systems",
+        "B5G/6G Open RAN (INDRA5G)",
+        "ML-Driven Network Optimization"
     ],
-    learning: ["Agentic AI 🧠", "Cloud Architecture ☁️"],
-    collaborateOn: "innovative projects & creative ideas! 🌸",
-    funFact: "I debug with determination ✨",
-    lifePhilosophy: "code, coffee, create, repeat ☕💫"
+    
+    current_focus: [
+        "Agentic AI Systems",
+        "Cloud-Native Architecture",
+        "Research Methodology"
+    ],
+    
+    academic_goals: {
+        short_term: "PhD Applications & Research Publications",
+        long_term: "Advancing Network Intelligence & Security"
+    },
+    
+    collaboration: "Open to research collaborations and academic partnerships",
+    
+    // [████████████░░░░] Loading next chapter...
 };
 ```
 
 <br clear="right"/>
 
-<!-- Skills Section with Cute Headers -->
+<!-- Technical Stack -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" /> my magical toolbox
+##  TECHNICAL STACK
 
+**Programming & Scripting**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,php,powershell&perline=8" />
-  <br>
+</p>
+
+**Infrastructure & DevOps**
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,mysql,postgres,graphql,postman,arduino&perline=8" />
-  <br>
+</p>
+
+**Development Tools**
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma,illustrator,notion,vscode,linux,github,gitlab&perline=7" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Stats Section with Gradient -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="30" /> github stats
+<!-- GitHub Analytics -->
+##  GITHUB ANALYTICS
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kritzr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFF" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=kritzr&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kritzr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=kritzr&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritzr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFF&langs_count=8" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Activity Graph -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rainbow.png" width="30" /> contribution graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kritzr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFFFFF" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritzr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Trophies -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" /> github trophies
+<!-- Contribution Graph -->
+##  CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kritzr&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kritzr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Quote of the Day -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" width="30" /> today's vibe
+<!-- Achievements -->
+##  ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kritzr&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Current Projects -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> currently brewing
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone%20with%20Arrow.png" url = " https://github.com/Kritzr/PPO-BASED-PHYSICAL-RESOUCE-BLOCK-ALLOCATION-ALONG-WITH-SVM-AIDED-TRAFFIC-CLASSIFICATION" width="50" /><br>
-      <b>INDRA5G</b><br>
-      <sub>Intelligent B5G Open RAN with ML-powered traffic classification ✨</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png"  url="https://github.com/Kritzr/pravartak_shakthidb" width="50" /><br>
-      <b>Cybersecurity Research</b><br>
-      <sub>Graph-based cyber attack detection & prevention 🔐</sub>
-    </td>
-  </tr>
-</table>
+<!-- Research Interests -->
+## 🎯 RESEARCH INTERESTS
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  [██████████] Network Security & Cryptography          │
+│  [██████████] Machine Learning for Networks            │
+│  [██████████] Graph Database Systems                   │
+│  [██████████] 5G/6G Open RAN Architectures            │
+│  [████████░░] Agentic AI Systems                       │
+│  [████████░░] Cloud-Native Technologies                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-<!-- Visitor Counter -->
+<!-- Metrics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kritzr&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kritzr&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="profile views" />
 </p>
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution graph snake animation" />
 </p>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=100&section=footer" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="20" />
-  <i>let's build something amazing together!</i>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="20" />
+  <sub> Open to research collaborations and PhD opportunities !</sub>
 </p>
 
 <p align="center">
-  <sub>💫 made with passion & code by krithika 💫</sub>
+  <sub>© 2026 Krithika Ravishankar | Graduate Researcher</sub>
 </p>
 
 </div>
